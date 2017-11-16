@@ -1,1 +1,17 @@
-<h1>Sub1</h1>
+<!DOCTYPE html>
+<html>
+  <style>
+    h1 {
+    text-align: center;
+}
+  </style>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body style="background-color:WhiteSmoke;">
+   <h1 style="color:Slateblue">History Of The Video Game</h1>
+  </body>
+</html>
