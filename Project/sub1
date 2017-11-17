@@ -4,6 +4,21 @@
     h1 {
     text-align: center;
 }
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
   </style>
   <head>
     <meta charset="utf-8">
@@ -13,5 +28,21 @@
   </head>
   <body style="background-color:WhiteSmoke;">
    <h1 style="color:Slateblue">History Of The Video Game</h1>
+   <table>
+        <tr style="background-color:SlateBlue;">
+    <th><a href="https://nishimuran2391.github.io/Project/index.html">Home</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub1">page 1</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub2">page 2</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub3">page 3</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub4">page 4</a></th>
+  </tr>
+    </table>
+  
+   <h3>1962-MIT student Steve Russell invents Spacewar which is the first ever couputer based video game.</h3>
+   <h3>1972-Nolan Bushnell and Al Alcorn of Atari develops the pong.</h3>
+   <h3>1975-Atari introduces its home version of pong.</h3>
+   <h3>1977-Atrai releases the Video Computer System, more commonly known as Atari 2600. </h3>
+   <h3>1980-Namco's Toru Iwatani creates Pac-man</h3>
+   <h3></h3>
   </body>
 </html>
