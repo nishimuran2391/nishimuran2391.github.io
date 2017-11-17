@@ -31,7 +31,7 @@ tr:nth-child(even) {
    <table>
         <tr style="background-color:SlateBlue;">
     <th><a href="https://nishimuran2391.github.io/Project/index.html">Home</a></th>
-    <th><a href="https://nishimuran2391.github.io/Project/sub1">page 1</a></th>
+    <th><a href="nishimuran2391.github.io/Project/history">History</a></th>
     <th><a href="https://nishimuran2391.github.io/Project/sub2">page 2</a></th>
     <th><a href="https://nishimuran2391.github.io/Project/sub3">page 3</a></th>
     <th><a href="https://nishimuran2391.github.io/Project/sub4">page 4</a></th>
@@ -43,6 +43,10 @@ tr:nth-child(even) {
    <h3>1975-Atari introduces its home version of pong.</h3>
    <h3>1977-Atrai releases the Video Computer System, more commonly known as Atari 2600. </h3>
    <h3>1980-Namco's Toru Iwatani creates Pac-man</h3>
+   <h3>1981-Nintendo makes the arcade game donkey kong.</h3>
+   <h3>1984-Russian mathematician makes the game tetris</h3>
+   <h3>1985-Nintendo created the Nintendo Entertainment System (NES)</h3>
+   <h3>1989-Nintendo creates the handheld gaming console GameBoy.</h3>
    <h3></h3>
   </body>
 </html>
