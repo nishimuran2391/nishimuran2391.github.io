@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    h1 {
+    text-align: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
 
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+  </style>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body style="background-color:WhiteSmoke;">
+    <h1 style="color:Slateblue">Control</h1>
+    <table>
+     <tr style="background-color:SlateBlue;">
+    <th><a href="https://nishimuran2391.github.io/Project/index.html">Home</a></th>
+    <th><a href="nishimuran2391.github.io/Project/history">History</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub2">Bits</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub3">FPS</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub4">page 4</a></th>
+  </tr>
+    </table>
+    <h3>A game controller is a device used to play games to provide input to a video game, typically to control an object or character in the game. A controller is usually connected to a game console or computer by means of a wire or cord. Input devices that have been classified as game controllers include keyboards, mouses.</h3>
+  </body>
+</html>
