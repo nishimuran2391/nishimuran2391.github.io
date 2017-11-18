@@ -1,2 +1,43 @@
-<h1>Sub3</h1>
+<!DOCTYPE html>
+<html>
+  <style>
+    h1 {
+    text-align: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+  </style>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body style="background-color:WhiteSmoke;">
+   <h1 style="color:Slateblue">Frame Per Second</h1>
+   <table>
+        <tr style="background-color:SlateBlue;">
+    <th><a href="https://nishimuran2391.github.io/Project/index.html">Home</a></th>
+    <th><a href="nishimuran2391.github.io/Project/history">History</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub2">Bits</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub3">FPS</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub4">page 4</a></th>
+  </tr>
+    </table>
+  <h3>If you think of a game as a still images representing single moments in time. The FPS is the number of images generated each second. It's not the same as the refresh rate, which is the number of times your display updates per second, and is measured in hertz (Hz).</h3>
+  </body>
+</html>
 
