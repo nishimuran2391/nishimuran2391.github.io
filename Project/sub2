@@ -1,2 +1,41 @@
-<h1>Sub2</h1>
-
+<!DOCTYPE html>
+<html>
+  <style>
+    h1 {
+    text-align: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+  </style>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body style="background-color:WhiteSmoke;">
+    <h1 style="color:Slateblue">Bits</h1>
+    <table>
+     <tr style="background-color:SlateBlue;">
+    <th><a href="https://nishimuran2391.github.io/Project/index.html">Home</a></th>
+    <th><a href="nishimuran2391.github.io/Project/history">History</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub2">Bits</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub3">page 3</a></th>
+    <th><a href="https://nishimuran2391.github.io/Project/sub4">page 4</a></th>
+  </tr>
+    </table>
+    <h3>A "bit" is a single binary digit, a one or a zero.  There are two different places in computing where bits get counted. In color displays, and in processing.</h3>
+    <h3>The number of bits tells you how many colors can simultaneously be displayed on the screen.  For example, "8-bit color" means that you can only have a maximum of 256 colors on your display.  Modern systems use "24-bit color", 8 bits each for red, blue, and green intensities, for a total of 16.78 million colors.</h3>
+  </body>
+</html>
